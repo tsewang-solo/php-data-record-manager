@@ -1,0 +1,12 @@
+.loginframe{
+margin:auto;
+padding:1em;	
+border:0.5px solid gray;
+border-radius:3px; 
+}
+
+.loginimg{
+height:200px;
+width:200px;
+margin:1em;	
+}
